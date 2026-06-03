@@ -62,7 +62,7 @@ def resolve_raw_data_source(local_path: str = RAW_PATH) -> str:
         print(f"Using public CSV URL: {csv_url}")
         return csv_url
     except Exception as exc:
-        if os.path.exists(local_path):
+        if os.path.isfile(local_path):
             print(
                 "Falling back to the local sample CSV because the public dataset "
                 f"could not be resolved: {exc}"
