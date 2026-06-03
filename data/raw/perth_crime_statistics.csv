@@ -1,0 +1,207 @@
+Financial Year,Period,Suburb,District,Local Government Area,Latitude,Longitude,Offence Division,Offence Subdivision,Offence Count
+2022/23,Q1,Perth,Perth,City of Perth,-31.9505,115.8605,Offences Against the Person,Assault (Non-Family),245
+2022/23,Q1,Perth,Perth,City of Perth,-31.9505,115.8605,Offences Against the Person,Assault (Family),89
+2022/23,Q1,Perth,Perth,City of Perth,-31.9505,115.8605,Offences Against the Person,Robbery,32
+2022/23,Q1,Perth,Perth,City of Perth,-31.9505,115.8605,Offences Against Property,Burglary (Dwelling),67
+2022/23,Q1,Perth,Perth,City of Perth,-31.9505,115.8605,Offences Against Property,Stealing,312
+2022/23,Q1,Perth,Perth,City of Perth,-31.9505,115.8605,Offences Against Property,Motor Vehicle Theft,54
+2022/23,Q1,Perth,Perth,City of Perth,-31.9505,115.8605,Offences Against Property,Property Damage,178
+2022/23,Q1,Perth,Perth,City of Perth,-31.9505,115.8605,Drug Offences,Possession and Use,95
+2022/23,Q1,Perth,Perth,City of Perth,-31.9505,115.8605,Fraud and Related Offences,Fraud,41
+2022/23,Q2,Perth,Perth,City of Perth,-31.9505,115.8605,Offences Against the Person,Assault (Non-Family),261
+2022/23,Q2,Perth,Perth,City of Perth,-31.9505,115.8605,Offences Against the Person,Assault (Family),97
+2022/23,Q2,Perth,Perth,City of Perth,-31.9505,115.8605,Offences Against the Person,Robbery,28
+2022/23,Q2,Perth,Perth,City of Perth,-31.9505,115.8605,Offences Against Property,Burglary (Dwelling),71
+2022/23,Q2,Perth,Perth,City of Perth,-31.9505,115.8605,Offences Against Property,Stealing,298
+2022/23,Q2,Perth,Perth,City of Perth,-31.9505,115.8605,Offences Against Property,Motor Vehicle Theft,49
+2022/23,Q2,Perth,Perth,City of Perth,-31.9505,115.8605,Offences Against Property,Property Damage,165
+2022/23,Q2,Perth,Perth,City of Perth,-31.9505,115.8605,Drug Offences,Possession and Use,88
+2022/23,Q2,Perth,Perth,City of Perth,-31.9505,115.8605,Fraud and Related Offences,Fraud,37
+2022/23,Q1,Fremantle,Fremantle,City of Fremantle,-32.0569,115.7439,Offences Against the Person,Assault (Non-Family),143
+2022/23,Q1,Fremantle,Fremantle,City of Fremantle,-32.0569,115.7439,Offences Against the Person,Assault (Family),61
+2022/23,Q1,Fremantle,Fremantle,City of Fremantle,-32.0569,115.7439,Offences Against the Person,Robbery,19
+2022/23,Q1,Fremantle,Fremantle,City of Fremantle,-32.0569,115.7439,Offences Against Property,Burglary (Dwelling),88
+2022/23,Q1,Fremantle,Fremantle,City of Fremantle,-32.0569,115.7439,Offences Against Property,Stealing,187
+2022/23,Q1,Fremantle,Fremantle,City of Fremantle,-32.0569,115.7439,Offences Against Property,Motor Vehicle Theft,43
+2022/23,Q1,Fremantle,Fremantle,City of Fremantle,-32.0569,115.7439,Offences Against Property,Property Damage,102
+2022/23,Q1,Fremantle,Fremantle,City of Fremantle,-32.0569,115.7439,Drug Offences,Possession and Use,74
+2022/23,Q2,Fremantle,Fremantle,City of Fremantle,-32.0569,115.7439,Offences Against the Person,Assault (Non-Family),158
+2022/23,Q2,Fremantle,Fremantle,City of Fremantle,-32.0569,115.7439,Offences Against the Person,Assault (Family),55
+2022/23,Q2,Fremantle,Fremantle,City of Fremantle,-32.0569,115.7439,Offences Against Property,Stealing,201
+2022/23,Q2,Fremantle,Fremantle,City of Fremantle,-32.0569,115.7439,Offences Against Property,Motor Vehicle Theft,38
+2022/23,Q1,Joondalup,North,City of Joondalup,-31.7447,115.7662,Offences Against the Person,Assault (Non-Family),98
+2022/23,Q1,Joondalup,North,City of Joondalup,-31.7447,115.7662,Offences Against the Person,Assault (Family),44
+2022/23,Q1,Joondalup,North,City of Joondalup,-31.7447,115.7662,Offences Against Property,Burglary (Dwelling),55
+2022/23,Q1,Joondalup,North,City of Joondalup,-31.7447,115.7662,Offences Against Property,Stealing,134
+2022/23,Q1,Joondalup,North,City of Joondalup,-31.7447,115.7662,Offences Against Property,Motor Vehicle Theft,29
+2022/23,Q1,Joondalup,North,City of Joondalup,-31.7447,115.7662,Offences Against Property,Property Damage,78
+2022/23,Q2,Joondalup,North,City of Joondalup,-31.7447,115.7662,Offences Against the Person,Assault (Non-Family),112
+2022/23,Q2,Joondalup,North,City of Joondalup,-31.7447,115.7662,Offences Against the Person,Assault (Family),51
+2022/23,Q2,Joondalup,North,City of Joondalup,-31.7447,115.7662,Offences Against Property,Burglary (Dwelling),62
+2022/23,Q2,Joondalup,North,City of Joondalup,-31.7447,115.7662,Offences Against Property,Stealing,141
+2022/23,Q1,Armadale,South East,City of Armadale,-32.1540,116.0113,Offences Against the Person,Assault (Non-Family),178
+2022/23,Q1,Armadale,South East,City of Armadale,-32.1540,116.0113,Offences Against the Person,Assault (Family),93
+2022/23,Q1,Armadale,South East,City of Armadale,-32.1540,116.0113,Offences Against the Person,Robbery,22
+2022/23,Q1,Armadale,South East,City of Armadale,-32.1540,116.0113,Offences Against Property,Burglary (Dwelling),112
+2022/23,Q1,Armadale,South East,City of Armadale,-32.1540,116.0113,Offences Against Property,Burglary (Non-Dwelling),45
+2022/23,Q1,Armadale,South East,City of Armadale,-32.1540,116.0113,Offences Against Property,Stealing,198
+2022/23,Q1,Armadale,South East,City of Armadale,-32.1540,116.0113,Offences Against Property,Motor Vehicle Theft,67
+2022/23,Q1,Armadale,South East,City of Armadale,-32.1540,116.0113,Offences Against Property,Property Damage,134
+2022/23,Q1,Armadale,South East,City of Armadale,-32.1540,116.0113,Drug Offences,Possession and Use,88
+2022/23,Q2,Armadale,South East,City of Armadale,-32.1540,116.0113,Offences Against the Person,Assault (Non-Family),195
+2022/23,Q2,Armadale,South East,City of Armadale,-32.1540,116.0113,Offences Against the Person,Assault (Family),102
+2022/23,Q2,Armadale,South East,City of Armadale,-32.1540,116.0113,Offences Against Property,Burglary (Dwelling),98
+2022/23,Q2,Armadale,South East,City of Armadale,-32.1540,116.0113,Offences Against Property,Stealing,211
+2022/23,Q2,Armadale,South East,City of Armadale,-32.1540,116.0113,Offences Against Property,Motor Vehicle Theft,72
+2022/23,Q1,Rockingham,South,City of Rockingham,-32.2786,115.7299,Offences Against the Person,Assault (Non-Family),156
+2022/23,Q1,Rockingham,South,City of Rockingham,-32.2786,115.7299,Offences Against the Person,Assault (Family),81
+2022/23,Q1,Rockingham,South,City of Rockingham,-32.2786,115.7299,Offences Against Property,Burglary (Dwelling),94
+2022/23,Q1,Rockingham,South,City of Rockingham,-32.2786,115.7299,Offences Against Property,Stealing,167
+2022/23,Q1,Rockingham,South,City of Rockingham,-32.2786,115.7299,Offences Against Property,Motor Vehicle Theft,55
+2022/23,Q1,Rockingham,South,City of Rockingham,-32.2786,115.7299,Offences Against Property,Property Damage,112
+2022/23,Q2,Rockingham,South,City of Rockingham,-32.2786,115.7299,Offences Against the Person,Assault (Non-Family),168
+2022/23,Q2,Rockingham,South,City of Rockingham,-32.2786,115.7299,Offences Against the Person,Assault (Family),76
+2022/23,Q2,Rockingham,South,City of Rockingham,-32.2786,115.7299,Offences Against Property,Burglary (Dwelling),87
+2022/23,Q2,Rockingham,South,City of Rockingham,-32.2786,115.7299,Offences Against Property,Stealing,180
+2022/23,Q2,Rockingham,South,City of Rockingham,-32.2786,115.7299,Offences Against Property,Motor Vehicle Theft,61
+2022/23,Q1,Midland,East,City of Swan,-31.8878,116.0136,Offences Against the Person,Assault (Non-Family),134
+2022/23,Q1,Midland,East,City of Swan,-31.8878,116.0136,Offences Against the Person,Assault (Family),75
+2022/23,Q1,Midland,East,City of Swan,-31.8878,116.0136,Offences Against Property,Burglary (Dwelling),89
+2022/23,Q1,Midland,East,City of Swan,-31.8878,116.0136,Offences Against Property,Stealing,145
+2022/23,Q1,Midland,East,City of Swan,-31.8878,116.0136,Offences Against Property,Motor Vehicle Theft,48
+2022/23,Q2,Midland,East,City of Swan,-31.8878,116.0136,Offences Against the Person,Assault (Non-Family),141
+2022/23,Q2,Midland,East,City of Swan,-31.8878,116.0136,Offences Against Property,Burglary (Dwelling),93
+2022/23,Q2,Midland,East,City of Swan,-31.8878,116.0136,Offences Against Property,Stealing,152
+2022/23,Q1,Cannington,South East,City of Canning,-31.9936,115.9356,Offences Against the Person,Assault (Non-Family),121
+2022/23,Q1,Cannington,South East,City of Canning,-31.9936,115.9356,Offences Against the Person,Assault (Family),58
+2022/23,Q1,Cannington,South East,City of Canning,-31.9936,115.9356,Offences Against Property,Burglary (Dwelling),76
+2022/23,Q1,Cannington,South East,City of Canning,-31.9936,115.9356,Offences Against Property,Stealing,189
+2022/23,Q1,Cannington,South East,City of Canning,-31.9936,115.9356,Offences Against Property,Motor Vehicle Theft,44
+2022/23,Q2,Cannington,South East,City of Canning,-31.9936,115.9356,Offences Against the Person,Assault (Non-Family),115
+2022/23,Q2,Cannington,South East,City of Canning,-31.9936,115.9356,Offences Against Property,Stealing,201
+2022/23,Q1,Mandurah,South,City of Mandurah,-32.5303,115.7224,Offences Against the Person,Assault (Non-Family),167
+2022/23,Q1,Mandurah,South,City of Mandurah,-32.5303,115.7224,Offences Against the Person,Assault (Family),88
+2022/23,Q1,Mandurah,South,City of Mandurah,-32.5303,115.7224,Offences Against Property,Burglary (Dwelling),103
+2022/23,Q1,Mandurah,South,City of Mandurah,-32.5303,115.7224,Offences Against Property,Stealing,156
+2022/23,Q1,Mandurah,South,City of Mandurah,-32.5303,115.7224,Offences Against Property,Motor Vehicle Theft,61
+2022/23,Q1,Mandurah,South,City of Mandurah,-32.5303,115.7224,Drug Offences,Possession and Use,82
+2022/23,Q2,Mandurah,South,City of Mandurah,-32.5303,115.7224,Offences Against the Person,Assault (Non-Family),179
+2022/23,Q2,Mandurah,South,City of Mandurah,-32.5303,115.7224,Offences Against the Person,Assault (Family),94
+2022/23,Q2,Mandurah,South,City of Mandurah,-32.5303,115.7224,Offences Against Property,Burglary (Dwelling),97
+2022/23,Q2,Mandurah,South,City of Mandurah,-32.5303,115.7224,Offences Against Property,Stealing,162
+2022/23,Q1,Stirling,North,City of Stirling,-31.8854,115.8418,Offences Against the Person,Assault (Non-Family),89
+2022/23,Q1,Stirling,North,City of Stirling,-31.8854,115.8418,Offences Against the Person,Assault (Family),42
+2022/23,Q1,Stirling,North,City of Stirling,-31.8854,115.8418,Offences Against Property,Burglary (Dwelling),61
+2022/23,Q1,Stirling,North,City of Stirling,-31.8854,115.8418,Offences Against Property,Stealing,123
+2022/23,Q1,Stirling,North,City of Stirling,-31.8854,115.8418,Offences Against Property,Motor Vehicle Theft,35
+2022/23,Q2,Stirling,North,City of Stirling,-31.8854,115.8418,Offences Against the Person,Assault (Non-Family),94
+2022/23,Q2,Stirling,North,City of Stirling,-31.8854,115.8418,Offences Against Property,Stealing,131
+2022/23,Q1,Belmont,South East,City of Belmont,-31.9440,115.9291,Offences Against the Person,Assault (Non-Family),112
+2022/23,Q1,Belmont,South East,City of Belmont,-31.9440,115.9291,Offences Against the Person,Assault (Family),54
+2022/23,Q1,Belmont,South East,City of Belmont,-31.9440,115.9291,Offences Against Property,Burglary (Dwelling),69
+2022/23,Q1,Belmont,South East,City of Belmont,-31.9440,115.9291,Offences Against Property,Stealing,144
+2022/23,Q1,Belmont,South East,City of Belmont,-31.9440,115.9291,Offences Against Property,Motor Vehicle Theft,41
+2022/23,Q2,Belmont,South East,City of Belmont,-31.9440,115.9291,Offences Against the Person,Assault (Non-Family),118
+2022/23,Q2,Belmont,South East,City of Belmont,-31.9440,115.9291,Offences Against Property,Stealing,158
+2022/23,Q1,Victoria Park,South East,Town of Victoria Park,-31.9736,115.8897,Offences Against the Person,Assault (Non-Family),134
+2022/23,Q1,Victoria Park,South East,Town of Victoria Park,-31.9736,115.8897,Offences Against the Person,Assault (Family),48
+2022/23,Q1,Victoria Park,South East,Town of Victoria Park,-31.9736,115.8897,Offences Against Property,Burglary (Dwelling),58
+2022/23,Q1,Victoria Park,South East,Town of Victoria Park,-31.9736,115.8897,Offences Against Property,Stealing,176
+2022/23,Q2,Victoria Park,South East,Town of Victoria Park,-31.9736,115.8897,Offences Against the Person,Assault (Non-Family),127
+2022/23,Q2,Victoria Park,South East,Town of Victoria Park,-31.9736,115.8897,Offences Against Property,Stealing,183
+2022/23,Q1,Canning Vale,South East,City of Canning,-32.0822,115.9237,Offences Against the Person,Assault (Non-Family),67
+2022/23,Q1,Canning Vale,South East,City of Canning,-32.0822,115.9237,Offences Against the Person,Assault (Family),32
+2022/23,Q1,Canning Vale,South East,City of Canning,-32.0822,115.9237,Offences Against Property,Burglary (Dwelling),48
+2022/23,Q1,Canning Vale,South East,City of Canning,-32.0822,115.9237,Offences Against Property,Stealing,98
+2022/23,Q1,Canning Vale,South East,City of Canning,-32.0822,115.9237,Offences Against Property,Motor Vehicle Theft,22
+2022/23,Q2,Canning Vale,South East,City of Canning,-32.0822,115.9237,Offences Against the Person,Assault (Non-Family),71
+2022/23,Q2,Canning Vale,South East,City of Canning,-32.0822,115.9237,Offences Against Property,Stealing,104
+2022/23,Q1,Morley,North,City of Bayswater,-31.8901,115.9038,Offences Against the Person,Assault (Non-Family),103
+2022/23,Q1,Morley,North,City of Bayswater,-31.8901,115.9038,Offences Against the Person,Assault (Family),49
+2022/23,Q1,Morley,North,City of Bayswater,-31.8901,115.9038,Offences Against Property,Burglary (Dwelling),64
+2022/23,Q1,Morley,North,City of Bayswater,-31.8901,115.9038,Offences Against Property,Stealing,138
+2022/23,Q2,Morley,North,City of Bayswater,-31.8901,115.9038,Offences Against the Person,Assault (Non-Family),99
+2022/23,Q2,Morley,North,City of Bayswater,-31.8901,115.9038,Offences Against Property,Stealing,145
+2022/23,Q1,Mirrabooka,North,City of Stirling,-31.8603,115.8537,Offences Against the Person,Assault (Non-Family),145
+2022/23,Q1,Mirrabooka,North,City of Stirling,-31.8603,115.8537,Offences Against the Person,Assault (Family),67
+2022/23,Q1,Mirrabooka,North,City of Stirling,-31.8603,115.8537,Offences Against Property,Burglary (Dwelling),82
+2022/23,Q1,Mirrabooka,North,City of Stirling,-31.8603,115.8537,Offences Against Property,Stealing,156
+2022/23,Q1,Mirrabooka,North,City of Stirling,-31.8603,115.8537,Offences Against Property,Motor Vehicle Theft,49
+2022/23,Q2,Mirrabooka,North,City of Stirling,-31.8603,115.8537,Offences Against the Person,Assault (Non-Family),152
+2022/23,Q2,Mirrabooka,North,City of Stirling,-31.8603,115.8537,Offences Against Property,Stealing,163
+2022/23,Q1,Thornlie,South East,City of Gosnells,-32.0575,115.9611,Offences Against the Person,Assault (Non-Family),118
+2022/23,Q1,Thornlie,South East,City of Gosnells,-32.0575,115.9611,Offences Against the Person,Assault (Family),55
+2022/23,Q1,Thornlie,South East,City of Gosnells,-32.0575,115.9611,Offences Against Property,Burglary (Dwelling),73
+2022/23,Q1,Thornlie,South East,City of Gosnells,-32.0575,115.9611,Offences Against Property,Stealing,134
+2022/23,Q2,Thornlie,South East,City of Gosnells,-32.0575,115.9611,Offences Against the Person,Assault (Non-Family),124
+2022/23,Q2,Thornlie,South East,City of Gosnells,-32.0575,115.9611,Offences Against Property,Stealing,142
+2022/23,Q1,Kwinana,South,City of Kwinana,-32.2381,115.7747,Offences Against the Person,Assault (Non-Family),134
+2022/23,Q1,Kwinana,South,City of Kwinana,-32.2381,115.7747,Offences Against the Person,Assault (Family),72
+2022/23,Q1,Kwinana,South,City of Kwinana,-32.2381,115.7747,Offences Against Property,Burglary (Dwelling),88
+2022/23,Q1,Kwinana,South,City of Kwinana,-32.2381,115.7747,Offences Against Property,Stealing,121
+2022/23,Q1,Kwinana,South,City of Kwinana,-32.2381,115.7747,Offences Against Property,Motor Vehicle Theft,51
+2022/23,Q2,Kwinana,South,City of Kwinana,-32.2381,115.7747,Offences Against the Person,Assault (Non-Family),141
+2022/23,Q2,Kwinana,South,City of Kwinana,-32.2381,115.7747,Offences Against Property,Burglary (Dwelling),94
+2022/23,Q1,Gosnells,South East,City of Gosnells,-32.0782,116.0073,Offences Against the Person,Assault (Non-Family),156
+2022/23,Q1,Gosnells,South East,City of Gosnells,-32.0782,116.0073,Offences Against the Person,Assault (Family),84
+2022/23,Q1,Gosnells,South East,City of Gosnells,-32.0782,116.0073,Offences Against Property,Burglary (Dwelling),97
+2022/23,Q1,Gosnells,South East,City of Gosnells,-32.0782,116.0073,Offences Against Property,Stealing,178
+2022/23,Q1,Gosnells,South East,City of Gosnells,-32.0782,116.0073,Offences Against Property,Motor Vehicle Theft,62
+2022/23,Q2,Gosnells,South East,City of Gosnells,-32.0782,116.0073,Offences Against the Person,Assault (Non-Family),163
+2022/23,Q2,Gosnells,South East,City of Gosnells,-32.0782,116.0073,Offences Against Property,Stealing,185
+2022/23,Q1,Balga,North,City of Stirling,-31.8403,115.8337,Offences Against the Person,Assault (Non-Family),167
+2022/23,Q1,Balga,North,City of Stirling,-31.8403,115.8337,Offences Against the Person,Assault (Family),89
+2022/23,Q1,Balga,North,City of Stirling,-31.8403,115.8337,Offences Against Property,Burglary (Dwelling),104
+2022/23,Q1,Balga,North,City of Stirling,-31.8403,115.8337,Offences Against Property,Stealing,189
+2022/23,Q1,Balga,North,City of Stirling,-31.8403,115.8337,Offences Against Property,Motor Vehicle Theft,71
+2022/23,Q1,Balga,North,City of Stirling,-31.8403,115.8337,Drug Offences,Possession and Use,95
+2022/23,Q2,Balga,North,City of Stirling,-31.8403,115.8337,Offences Against the Person,Assault (Non-Family),178
+2022/23,Q2,Balga,North,City of Stirling,-31.8403,115.8337,Offences Against Property,Stealing,197
+2022/23,Q1,Bentley,South East,City of Canning,-32.0044,115.9188,Offences Against the Person,Assault (Non-Family),143
+2022/23,Q1,Bentley,South East,City of Canning,-32.0044,115.9188,Offences Against the Person,Assault (Family),66
+2022/23,Q1,Bentley,South East,City of Canning,-32.0044,115.9188,Offences Against Property,Burglary (Dwelling),79
+2022/23,Q1,Bentley,South East,City of Canning,-32.0044,115.9188,Offences Against Property,Stealing,163
+2022/23,Q2,Bentley,South East,City of Canning,-32.0044,115.9188,Offences Against the Person,Assault (Non-Family),138
+2022/23,Q2,Bentley,South East,City of Canning,-32.0044,115.9188,Offences Against Property,Stealing,171
+2022/23,Q1,Bassendean,East,Town of Bassendean,-31.9045,115.9454,Offences Against the Person,Assault (Non-Family),78
+2022/23,Q1,Bassendean,East,Town of Bassendean,-31.9045,115.9454,Offences Against the Person,Assault (Family),36
+2022/23,Q1,Bassendean,East,Town of Bassendean,-31.9045,115.9454,Offences Against Property,Burglary (Dwelling),44
+2022/23,Q1,Bassendean,East,Town of Bassendean,-31.9045,115.9454,Offences Against Property,Stealing,89
+2022/23,Q2,Bassendean,East,Town of Bassendean,-31.9045,115.9454,Offences Against the Person,Assault (Non-Family),82
+2022/23,Q2,Bassendean,East,Town of Bassendean,-31.9045,115.9454,Offences Against Property,Stealing,95
+2022/23,Q1,Ellenbrook,East,City of Swan,-31.7749,116.0016,Offences Against the Person,Assault (Non-Family),92
+2022/23,Q1,Ellenbrook,East,City of Swan,-31.7749,116.0016,Offences Against the Person,Assault (Family),47
+2022/23,Q1,Ellenbrook,East,City of Swan,-31.7749,116.0016,Offences Against Property,Burglary (Dwelling),56
+2022/23,Q1,Ellenbrook,East,City of Swan,-31.7749,116.0016,Offences Against Property,Stealing,112
+2022/23,Q2,Ellenbrook,East,City of Swan,-31.7749,116.0016,Offences Against the Person,Assault (Non-Family),97
+2022/23,Q2,Ellenbrook,East,City of Swan,-31.7749,116.0016,Offences Against Property,Stealing,118
+2022/23,Q1,Clarkson,North,City of Wanneroo,-31.6895,115.7248,Offences Against the Person,Assault (Non-Family),88
+2022/23,Q1,Clarkson,North,City of Wanneroo,-31.6895,115.7248,Offences Against the Person,Assault (Family),41
+2022/23,Q1,Clarkson,North,City of Wanneroo,-31.6895,115.7248,Offences Against Property,Burglary (Dwelling),52
+2022/23,Q1,Clarkson,North,City of Wanneroo,-31.6895,115.7248,Offences Against Property,Stealing,107
+2022/23,Q2,Clarkson,North,City of Wanneroo,-31.6895,115.7248,Offences Against the Person,Assault (Non-Family),93
+2022/23,Q2,Clarkson,North,City of Wanneroo,-31.6895,115.7248,Offences Against Property,Stealing,114
+2022/23,Q1,Subiaco,Perth,City of Subiaco,-31.9479,115.8268,Offences Against the Person,Assault (Non-Family),56
+2022/23,Q1,Subiaco,Perth,City of Subiaco,-31.9479,115.8268,Offences Against the Person,Assault (Family),23
+2022/23,Q1,Subiaco,Perth,City of Subiaco,-31.9479,115.8268,Offences Against Property,Burglary (Dwelling),38
+2022/23,Q1,Subiaco,Perth,City of Subiaco,-31.9479,115.8268,Offences Against Property,Stealing,87
+2022/23,Q2,Subiaco,Perth,City of Subiaco,-31.9479,115.8268,Offences Against the Person,Assault (Non-Family),61
+2022/23,Q2,Subiaco,Perth,City of Subiaco,-31.9479,115.8268,Offences Against Property,Stealing,91
+2022/23,Q1,Cottesloe,Perth,Town of Cottesloe,-31.9906,115.7571,Offences Against the Person,Assault (Non-Family),34
+2022/23,Q1,Cottesloe,Perth,Town of Cottesloe,-31.9906,115.7571,Offences Against the Person,Assault (Family),14
+2022/23,Q1,Cottesloe,Perth,Town of Cottesloe,-31.9906,115.7571,Offences Against Property,Burglary (Dwelling),28
+2022/23,Q1,Cottesloe,Perth,Town of Cottesloe,-31.9906,115.7571,Offences Against Property,Stealing,54
+2022/23,Q2,Cottesloe,Perth,Town of Cottesloe,-31.9906,115.7571,Offences Against the Person,Assault (Non-Family),37
+2022/23,Q2,Cottesloe,Perth,Town of Cottesloe,-31.9906,115.7571,Offences Against Property,Stealing,58
+2022/23,Q1,Nedlands,Perth,City of Nedlands,-31.9789,115.8073,Offences Against the Person,Assault (Non-Family),42
+2022/23,Q1,Nedlands,Perth,City of Nedlands,-31.9789,115.8073,Offences Against the Person,Assault (Family),18
+2022/23,Q1,Nedlands,Perth,City of Nedlands,-31.9789,115.8073,Offences Against Property,Burglary (Dwelling),31
+2022/23,Q1,Nedlands,Perth,City of Nedlands,-31.9789,115.8073,Offences Against Property,Stealing,62
+2022/23,Q2,Nedlands,Perth,City of Nedlands,-31.9789,115.8073,Offences Against the Person,Assault (Non-Family),45
+2022/23,Q2,Nedlands,Perth,City of Nedlands,-31.9789,115.8073,Offences Against Property,Stealing,67
+2022/23,Q1,Maylands,North,City of Bayswater,-31.9296,115.8867,Offences Against the Person,Assault (Non-Family),98
+2022/23,Q1,Maylands,North,City of Bayswater,-31.9296,115.8867,Offences Against the Person,Assault (Family),44
+2022/23,Q1,Maylands,North,City of Bayswater,-31.9296,115.8867,Offences Against Property,Burglary (Dwelling),58
+2022/23,Q1,Maylands,North,City of Bayswater,-31.9296,115.8867,Offences Against Property,Stealing,119
+2022/23,Q2,Maylands,North,City of Bayswater,-31.9296,115.8867,Offences Against the Person,Assault (Non-Family),103
+2022/23,Q2,Maylands,North,City of Bayswater,-31.9296,115.8867,Offences Against Property,Stealing,124
