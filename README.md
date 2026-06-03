@@ -104,22 +104,31 @@ jupyter lab notebooks/Perth_Crime_Analysis.ipynb
 | `jupyterlab` | Notebook environment |
 
 See [`requirements.txt`](requirements.txt) for pinned versions.
+Google Colab already includes `pandas`, so the notebook can load the dataset
+directly without a manual upload step.
 
 ---
 
 ## Dataset
 
-The sample dataset (`data/raw/perth_crime_statistics.csv`) is modelled on
-the WA Police Force crime statistics format. It contains quarterly offence
-counts for 26 Perth suburbs across the 2022/23 financial year, categorised by:
+The sample dataset (`data/raw/perth_crime_statistics.csv`) is modelled on the
+WA Police Force crime statistics format. It contains quarterly offence counts
+for 26 Perth suburbs across the 2022/23 financial year, categorised by:
 
 - **Offence Division** (e.g. Offences Against the Person, Offences Against Property)
 - **Offence Subdivision** (e.g. Assault, Burglary, Stealing, Motor Vehicle Theft)
 
-To use the full official dataset:
-1. Download from [data.wa.gov.au](https://data.wa.gov.au/dataset/crime-statistics-by-suburb)
-2. Replace `data/raw/perth_crime_statistics.csv` with the downloaded file
-3. Re-run the pipeline
+To use the full official dataset in Google Colab or a local notebook:
+1. Open `notebooks/Perth_Crime_Analysis.ipynb`
+2. Run the **Load Raw Data** section, which resolves the public CSV resource
+   from [data.wa.gov.au](https://data.wa.gov.au/dataset/crime-statistics-by-suburb)
+   and loads it straight into a Pandas DataFrame
+3. Optionally set `SAVE_TO_COLAB_RUNTIME = True` to save a temporary copy to
+   `/content/perth_crime_statistics.csv`
+
+The preprocessing script (`src/scripts/01_preprocess.py`) uses the same public
+dataset lookup by default and falls back to the sample local CSV only when the
+WA Open Data portal cannot be reached.
 
 ---
 
